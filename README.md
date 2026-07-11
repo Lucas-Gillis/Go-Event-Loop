@@ -1,5 +1,5 @@
-# Event-Loop-Go
-Uma introdução à programação assíncrona através da implementação de um event loop em Go 
+# Event-Loop-C
+Uma introdução à programação assíncrona através da implementação de um event loop em C 
 
 ## Introdução
 Um loop de eventos possibilita a um sistema executar operações de I/O (entrada ou saída) de forma não bloqueante. Assim, comandos daquele sistema que dependem do retorno de algum sistema externo não "travam" o sistema em estado de espera por aquele retorno. Podemos pensar no loop de eventos como um truque inteligente para organizarmos as operações dentro de um sistema.
